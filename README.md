@@ -2,7 +2,11 @@
 
 A Python-based stock portfolio management application that allows users to manage their stock holdings, track share purchases, and calculate portfolio performance.
 
+<<<<<<< HEAD
 ## Features
+=======
+# Features
+>>>>>>> 51b8ab51e7b1a1cd58c5250bb408bf30a4d66114
 
 - **Add Stocks:** Add new stock purchases to your portfolio.
 - **Remove Stocks:** Remove stocks from your portfolio.
@@ -11,8 +15,11 @@ A Python-based stock portfolio management application that allows users to manag
 - **Profit and Loss:** Calculate potential profit or loss based on stock prices.
 - **Portfolio Overview:** View your current stock holdings and investment information.
 
+<<<<<<< HEAD
 ## Installation
 
+=======
+>>>>>>> 51b8ab51e7b1a1cd58c5250bb408bf30a4d66114
 1. Clone this repository:
 
    ```bash
@@ -31,8 +38,11 @@ A Python-based stock portfolio management application that allows users to manag
    python main.py
    ```
 
+<<<<<<< HEAD
 ## Example
 
+=======
+>>>>>>> 51b8ab51e7b1a1cd58c5250bb408bf30a4d66114
 Suppose you purchase:
 
 - 5 shares at $10 each
@@ -52,4 +62,10 @@ Average purchase price:
 average_price = total_investment / total_shares
 ```
 
+<<<<<<< HEAD
 
+=======
+## 🔮 Future Improvements
+
+- Save portfolio data permanently using JSON
+>>>>>>> 51b8ab51e7b1a1cd58c5250bb408bf30a4d66114
